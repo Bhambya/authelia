@@ -21,7 +21,7 @@ seo:
 ## Tested Versions
 
 - [Authelia]
-  - [v4.39.1](https://github.com/authelia/authelia/releases/tag/v4.39.1)
+  - [v4.39.4](https://github.com/authelia/authelia/releases/tag/v4.39.4)
 - [Beszel]
   - [v0.10.2](https://github.com/henrygd/beszel/releases/tag/v0.10.2)
 
@@ -41,17 +41,6 @@ Some of the values presented in this guide can automatically be replaced with do
 {{< sitevar-preferences >}}
 
 ## Configuration
-
-The following example uses the [OAuth login Extension] which is assumed to be installed when following
-this section of the guide.
-
-To install the [OAuth login Extension] for [Beszel] via the Web GUI:
-
-1. Login to [Beszel].
-2. Navigate to `Extensions`.
-3. Navigate to `Extensions Catalog`.
-4. Search for `OAuth login`.
-5. Click Install.
 
 ### Authelia
 
